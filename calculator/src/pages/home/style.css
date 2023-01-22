@@ -1,0 +1,8 @@
+.home-container{
+    width: 38rem;
+    height: 24rem;
+    border-radius: 0.25rem;
+    border: 1px solid #D1DCE3;
+    display: flex;
+    justify-content: space-between;
+}

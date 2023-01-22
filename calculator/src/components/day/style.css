@@ -1,0 +1,33 @@
+.response-container{
+    background-color: rgba(209, 220, 227, 0.18);
+    width: 57vw;
+    color: #3D75BB;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    padding-left: 2rem;
+}
+
+h4{
+    margin: 0;
+}
+
+hr{
+   background-color: #5D9CEC;
+    height: 0.5px;
+    width: 10rem;
+    border: none;
+    margin: 0;
+    opacity: 0.3;
+}
+
+.days-container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 10rem;
+    margin-top: 1.5rem;
+}
